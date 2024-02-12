@@ -1,4 +1,6 @@
 {  
+  "name": "Abrowser",
+  "version": "1.1.0",
   "image": "image/shoopeads.png",
   "link": "https://example.com/page"
 }
